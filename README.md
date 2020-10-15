@@ -1,5 +1,5 @@
 # portfolio
-Here is a portfolio of some of my Data Science, IoT, and other CS projects
+Here is a portfolio of some of my Data Science, IoT, and other CS/CAD projects
 
 Please see the associated branches for each of the related projects :)
 
